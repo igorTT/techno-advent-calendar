@@ -1,8 +1,11 @@
-# React + Vite
+# React Advent Calendar with YouTube Tracks
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## **Project Overview**
 
-Currently, two official plugins are available:
+This project is a personalized advent calendar web application built using React. Each "door" of the calendar represents a day in December leading up to Christmas and reveals a techno track hosted on YouTube. The app features:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- A visually appealing advent calendar layout.
+- Date-based unlocking of calendar doors.
+- Embedded YouTube video players for each track.
+- Persistent state using local storage to remember which doors have been opened.
+- Hosted on GitHub Pages for easy sharing and access.
