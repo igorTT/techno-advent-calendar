@@ -7,7 +7,7 @@ const Door = ({ day, track, isLocked, onOpen, isOpen }) => {
   return (
     <Card
       className={cn(
-        'bg-[url("/assets/card.webp")] bg-cover bg-center border-none rounded-lg overflow-hidden cursor-pointer',
+        'bg-[url("/assets/card.webp")] bg-cover bg-center border-none rounded-lg overflow-hidden cursor-pointer shadow-lg',
         isLocked && 'cursor-not-allowed',
         'min-w-60 min-h-72',
       )}
@@ -17,7 +17,7 @@ const Door = ({ day, track, isLocked, onOpen, isOpen }) => {
       <CardHeader className="bg-black/50">
         <CardTitle className="text-center">Day {day}</CardTitle>
       </CardHeader>
-      <CardContent>
+      <CardContent className={cn(isLocked && 'bg-black/50 h-full')}>
         {isOpen && (
           <div className="door-content">
             <iframe

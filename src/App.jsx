@@ -2,14 +2,15 @@ import { useState } from 'react';
 
 import Calendar from './components/Calendar';
 import { tracks } from './constants';
-import { getDoorsOpened } from './lib/localStorage';
+import { getDoorsOpened, setDoorState } from './lib/localStorage';
 
 function App() {
-  const today = 3; //new Date().getDate();
+  const today = new Date().getDate();
   const [openedDoors, setOpenedDoors] = useState(getDoorsOpened());
 
   const onOpenDoor = (day) => {
     setOpenedDoors([...openedDoors, day]);
+    setDoorState(day, 'open');
   };
 
   return (

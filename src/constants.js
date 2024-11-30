@@ -1,26 +1,26 @@
 export const tracks = [
-  'https://www.youtube.com/embed/5MDH_8MuyLE?si=_ywQWcdVmLDUEkvn2',
-  'https://www.youtube.com/embed/trackID2',
-  'https://www.youtube.com/embed/trackID3',
-  'https://www.youtube.com/embed/trackID4',
-  'https://www.youtube.com/embed/trackID5',
-  'https://www.youtube.com/embed/trackID6',
-  'https://www.youtube.com/embed/trackID7',
-  'https://www.youtube.com/embed/trackID8',
-  'https://www.youtube.com/embed/trackID9',
-  'https://www.youtube.com/embed/trackID10',
-  'https://www.youtube.com/embed/trackID11',
-  'https://www.youtube.com/embed/trackID12',
-  'https://www.youtube.com/embed/trackID13',
-  'https://www.youtube.com/embed/trackID14',
-  'https://www.youtube.com/embed/trackID15',
-  'https://www.youtube.com/embed/trackID16',
-  'https://www.youtube.com/embed/trackID17',
-  'https://www.youtube.com/embed/trackID18',
-  'https://www.youtube.com/embed/trackID19',
-  'https://www.youtube.com/embed/trackID20',
-  'https://www.youtube.com/embed/trackID21',
-  'https://www.youtube.com/embed/trackID22',
-  'https://www.youtube.com/embed/trackID23',
-  'https://www.youtube.com/embed/trackID24',
+  'https://www.youtube.com/embed/aj45OGm5cuM?si=Tj8SwOGNHw2SntaE', // Joris Voorn & Jan Blomqvist - Flora (Official Visualizer)
+  'https://www.youtube.com/embed/IdBh-DZoyRA?si=qRKnsKuf-ML5gY7Z', // ARTBAT - Remember
+  'https://www.youtube.com/embed/iosaSwiYp4E?si=B7Hy4u7H9IKxcThN', //Kolsch - All That Matters (ARTBAT remix),
+  'https://www.youtube.com/embed/xF5PzY4b3eQ?si=bZ-YF5xYjaFzJa2_', // Ben Böhmer, Nils Hoffmann & Malou - Breathing
+  'https://www.youtube.com/embed/HmfJqm9P7Ks?si=0eILkuDm_T-BGmiD', // AL044 - KAS:ST - VTOPIA
+  'https://www.youtube.com/embed/Hrdyo7MtVxI?si=qkdw2lMoDlWHzXf3', // YOTTO & Cassian - 'Grains'
+  'https://www.youtube.com/embed/iMUjfIRLgUo?si=jkadw8tzccVErVJF', // Mathame - I Will Find You
+  'https://www.youtube.com/embed/driMOxU_fIk?si=NgFV0C8JcluIBlSD', // WhoMadeWho & Kölsch - Heartless (Fideles Remix)
+  'https://www.youtube.com/embed/hN5X4kGhAtU?si=Y685ykUHgJidZbWa', // Empire Of The Sun - We Are The People
+  'https://www.youtube.com/embed/GPXiL6ynVG8?si=SWP5_ms8k0i3nzo8', // RÜFÜS DU SOL - Next To Me
+  'https://www.youtube.com/embed/e_g8Y7YE-8I?si=XYjKJs17SF5nEqyN', // Jan Blomqvist feat. Elena Pitoulis - More
+  'https://www.youtube.com/embed/THnm60-jrrk?si=FdjuU8pAGH_Kjg3M', // Argy & Goom Gum - Pantheon
+  'https://www.youtube.com/embed/oWDzTvjoDn4?si=GrX-A51YyEjoYV1W', // No Goodbye
+  'https://www.youtube.com/embed/MpbZDxx44qE?si=J6sZC0zq7dXBJ1t7', // Anyma & Chris Avantgarde - Consciousness
+  'https://www.youtube.com/embed/F0GDuMIdw8M?si=04N66vySO1wcnm_o', // Chris Avantgarde - Perception
+  'https://www.youtube.com/embed/6tLVI3d6X4U?si=_taeoW8RT-aC7_i2', // Rebūke - Along Came Polly
+  'https://www.youtube.com/embed/xqknPVguDTM?si=sOEWWMJjnOk2whrL', // Morten - Control
+  'https://www.youtube.com/embed/1TecpYNtwOA?si=Nav2EIfJcZ-mLRxG', // Boris Brejcha - Vienna (feat. Malena Narvay)
+  'https://www.youtube.com/embed/r9Ccnhi2CrA?si=qnm4wc5wrZtEcsJI', // Enrico Sangiuliano - Physical Change
+  'https://www.youtube.com/embed/bAdE3Kg2tZs?si=aYlzHiINHA4OGuJ2', // Outcome & Philipp Straub - Lyra (Original Mix)
+  'https://www.youtube.com/embed/uoNWQUeZE0k?si=Ox4-sQ0klT1R_MMU', // HUGEL, Diplo - Forever
+  'https://www.youtube.com/embed/s8nQpb2a1U8?si=vlN8tO_--mG_QW2o', // Cosmic Gate & Olivia Sebastianelli - We Got The Fire
+  'https://www.youtube.com/embed/5f8QcbACOp8?si=pAte7NSKsIRkmP3s', // Nora En Pure - Tears In Your Eyes
+  'https://www.youtube.com/embed/WVH12tO6n6Q?si=JF_-0BPdWrH9YmAf', // Alok, INNERVERSE & FREY - Allein Allein
 ];
